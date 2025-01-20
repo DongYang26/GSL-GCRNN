@@ -16,9 +16,9 @@ The dataset for this project comes from the open source platform: https://electr
 ## Usage
 
 ### Requirements
-- Numpy
+- Python=3.8.20
 - pytorch
-- pytorch-lightning
+- pytorch-lightning=1.8.2
 - pandas
 - scipy
 - matplotlib
@@ -28,13 +28,7 @@ The dataset for this project comes from the open source platform: https://electr
 python train_main.py bcn_L --gpus 1
 ```
 where "bcn_L" can be replaced by "rack_2", "test_rpi4" or "test_yago".
-### Model test
-```
-python test_main.py --model_name GSLGCRNN --max_epochs 3000 --learning_rate 0.0001 --batch_size 32 --hidden_dim 64  --settings supervised --gpus 1
-```
 
-
-Run `tensorboard --logdir lightning_logs/version_0 --samples_per_plugin scalars=999999999` in terminal to view the prediction results and experimental indicators.
 
 ## Acknowledgement
 Please acknowledge the following paper if the codes is useful for your research.
