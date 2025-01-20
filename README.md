@@ -31,7 +31,7 @@ where "bcn_L" can be replaced by "rack_2", "test_rpi4" or "test_yago".
 
 
 ## Acknowledgement
-Please acknowledge the following paper if the codes is useful for your research.
+Please acknowledge the following paper if the codes and/or datasets are useful for your research.
 
 ```
 @INPROCEEDINGS{10758056,
