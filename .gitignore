@@ -4,3 +4,6 @@ savedModels/
 *.log
 lightning_logs/
 log
+*.DS_Store
+.DS_Store
+

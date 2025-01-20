@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2  nohup python train_main.py bcn_L > train_bcn_L.log 2>&1 &
