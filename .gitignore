@@ -1,0 +1,6 @@
+__pycache__/
+results/
+savedModels/
+*.log
+lightning_logs/
+log
