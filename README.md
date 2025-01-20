@@ -31,6 +31,21 @@ where "bcn_L" can be replaced by "rack_2", "test_rpi4" or "test_yago".
 
 
 ## Acknowledgement
+
+We appreciate the following github repos a lot for their valuable code base or datasets of paper:
+[T-GCN](https://github.com/lehaifeng/T-GCN/tree/master/T-GCN/T-GCN-PyTorch), [A-GCRNN](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction), [SAE-TSS](https://ieeexplore.ieee.org/abstract/document/10064355).
+
+
+## Explanation
+
+As we continuously iterate our models to publish new research findings, the original code of this paper was not promptly backed up upon completion. Instead, further model development and improvements were carried out based on it. Unfortunately, we are unable to fully restore the original version in a short time.  
+
+To help readers quickly reproduce our work, we have carefully organized and provided this version of the code. We hope it will be helpful for your research.  
+
+If you have any questions or suggestions regarding the code, please feel free to contact us:  
+**Email:** dyang26@student.gsu.edu
+
+## Reference
 Please acknowledge the following paper if the codes and/or datasets are useful for your research.
 
 ```
