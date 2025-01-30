@@ -1,3 +1,9 @@
+## Framework
+![Proposed GSL-GCRNN](fig/framework.png)
+
+## Motivation
+In the real world of wireless communications, there usually exists **multi-band correlation** between adjacent bands, due to inevitable _power leakage_ from operating band to its adjacent bands. Meanwhile, the multi-band correlation also results from simultaneous _spectrum occupancy_ by the same transmitter over discontinuous bands. Such multi-band correlations can be represented as graph-structured spectrum data, in which the bands and their correlations are expressed as the nodes and edges in the graph. Considering these inherent patterns, it is crucial to exploit the implicit but important multi band correlations as well as their temporal dynamics across different bands in spectrum prediction tasks.
+
 ## Dataset
 The dataset for this project comes from the open source platform: https://electrosense.org
 
