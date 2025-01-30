@@ -43,7 +43,7 @@ As we continuously iterate our models to publish new research findings, the orig
 To help readers quickly reproduce our work, we have carefully organized and provided this version of the code. We hope it will be helpful for your research.  
 
 If you have any questions or suggestions regarding the code, please feel free to contact us:  
-**Email:** dyang26@student.gsu.edu
+**Email:** dnyang26@gmail.com
 
 ## Reference
 Please acknowledge the following paper if the codes and/or datasets are useful for your research.
